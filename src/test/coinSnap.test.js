@@ -10,10 +10,10 @@ test('selected snapshot', () => {
     .create(
       <Provider store={store}>
         <MemoryRouter>
-          <Coin  
-            id='bitcoin'
-            img='img'
-            name='bitcoin'
+          <Coin
+            id="bitcoin"
+            img="img"
+            name="bitcoin"
           />
         </MemoryRouter>
       </Provider>,
