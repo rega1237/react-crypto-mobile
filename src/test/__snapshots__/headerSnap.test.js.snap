@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header is rendering 1`] = `
+<header>
+  <img
+    alt="company logo"
+    src="logo.png"
+  />
+</header>
+`;
