@@ -1,4 +1,4 @@
-
+![App Screenshot](./src/icon/vistas-juntas.jpg)
 # Monitor Crypto Mobile App
 
 Monitor Crypto is a mobile app where you can check 
@@ -14,7 +14,7 @@ exchange poloinex.
 
 ## Demo
 
-Insert gif or link to demo
+- https://monitor-crypto-mobile.herokuapp.com/
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
