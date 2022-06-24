@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`selected snapshot 1`] = `
+<a
+  aria-current={null}
+  className="nav-link"
+  href="/details/bitcoin"
+  onClick={[Function]}
+>
+  <div
+    className="coin"
+  >
+    <div
+      className="data-container"
+    >
+      <img
+        alt="bitcoin Logo"
+        className="img-logo"
+        src="img"
+      />
+      <h2>
+        bitcoin
+      </h2>
+    </div>
+  </div>
+</a>
+`;

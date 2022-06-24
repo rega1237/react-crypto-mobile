@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`selected snapshot 1`] = `
+<div
+  className="details-container"
+>
+  <div
+    className="presentation"
+  >
+    <a
+      aria-current="page"
+      className="active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      <img
+        alt=""
+        className="back-icon"
+        src="back.png"
+      />
+    </a>
+    <header>
+      <img
+        alt="company logo"
+        src="logo.png"
+      />
+    </header>
+  </div>
+  <div
+    className="error"
+  >
+    <h1>
+      Oops! nothing To show here
+    </h1>
+    <h2>
+      Please go back and select the Currency you want to check!
+    </h2>
+  </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+.filter-container {
+  display: flex;
+  justify-content: center;
+}
+
+#filter {
+  margin: 0 0.5rem;
+  padding: 0.5rem;
+}
+
+.all-coins {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  padding-top: 15px;
+}
