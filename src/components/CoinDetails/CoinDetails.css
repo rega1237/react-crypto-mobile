@@ -1,0 +1,57 @@
+.presentation {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--pink);
+}
+
+.back-icon {
+  width: 1rem;
+  margin: 1rem 0.5rem;
+}
+
+.img-name {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.img-coin-details {
+  width: 15%;
+}
+
+.name-rank h1 {
+  font-family: var(--gill);
+  color: var(--white);
+}
+
+.name-rank h2 {
+  font-family: var(--lato);
+  color: var(--white);
+}
+
+.description-element {
+  list-style: none;
+  padding: 1.2rem;
+  color: var(--white);
+}
+
+.description-element:nth-child(even) {
+  background-color: var(--pink);
+}
+
+.description-element h2 {
+  font-family: var(--gill);
+}
+
+.description-element h3 {
+  font-family: var(--lato);
+  text-align: end;
+}
+
+.error {
+  text-align: center;
+  font-family: var(--gill);
+  color: var(--white);
+  padding: 1rem;
+  margin-top: 3rem;
+}
